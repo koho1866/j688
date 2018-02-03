@@ -3,7 +3,7 @@
 	<td colspan=3>
 		
 
-<img src="https://github.com/goodabc/GCC/blob/master/GCC/img/cmGoal.jpg" width="875">
+<img src="https://github.com/j168/j688/blob/master/img/cmGoal123.jpg" width="875">
 		
 ### 在《九评共产党》发表13周年之际，《九评》编辑部发表新书《共产主义的终极目的》。
 ******
