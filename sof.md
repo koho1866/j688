@@ -1,21 +1,21 @@
 <table align="center" >
 	<tr>
 		<td>
-		<img src="https://github.com/j168/j688/blob/master/menu/sof.jpg" width="800" hight="100">	
+		<img src="https://github.com/j168/j688/blob/master/menu/f-s1.jpg" width="800" hight="100">	
 		</td>	
 	</tr>	
 </table>
 
 <table  width="800">
 <tr>
-	<td width="240"><img src="  " height="60" align="middle"></td>
+	<td width="240"><img src="   " height="60" align="middle"></td>
 	<td></td>
 	<td></td>
 </tr>
 <tr>
-	<td><img src="https://github.com/j168/j688/blob/master/menu/zi-1.jpg" align="middle" width="240" alt="自由门"></td>
-	<td><a href="https://git.io/vN7BW"><img src="https://github.com/j168/j688/blob/master/menu/zi-2.jpg" align="middle" width="320" alt="自由门安卓"></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/zi-3.jpg" align="middle" width="320" alt="自由门桌机"></a> </td>
+	<td><img src="https://github.com/j168/j688/blob/master/menu/fg.jpg" align="middle" width="240" alt="自由门"></td>
+	<td><a href="https://git.io/vN7BW"><img src="https://github.com/j168/j688/blob/master/menu/fra.jpg" align="middle" width="320" alt="自由门安卓"></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/frj.jpg" align="middle" width="320" alt="自由门桌机"></a> </td>
 </tr>
 
 <tr>
