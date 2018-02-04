@@ -1,0 +1,41 @@
+<table align="center" >
+	<tr>
+		<td>
+		<img src="https://github.com/j168/j688/blob/master/menu/sof.jpg" width="800" hight="100">	
+		</td>	
+	</tr>	
+</table>
+
+<table  width="800">
+<tr>
+	<td width="240"><img src="  " height="60" align="middle"></td>
+	<td></td>
+	<td></td>
+</tr>
+<tr>
+	<td><img src="https://github.com/j168/j688/blob/master/menu/zi-1.jpg" align="middle" width="240" alt="自由门"></td>
+	<td><a href="https://git.io/vN7BW"><img src="https://github.com/j168/j688/blob/master/menu/zi-2.jpg" align="middle" width="320" alt="自由门安卓"></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/zi-3.jpg" align="middle" width="320" alt="自由门桌机"></a> </td>
+</tr>
+
+<tr>
+	<td><img src="https://github.com/j168/j688/blob/master/menu/wu-4.jpg" align="middle" width="240" alt="无界"></td>
+  <td><img src="https://github.com/j168/j688/blob/master/menu/wu-5.jpg" align="middle" width="240" alt="无界"></td>
+	<td><a href="https://git.io/vN74F"><img src="https://github.com/j168/j688/blob/master/menu/wu-1.jpg" align="middle" width="320" alt="无界一点通"></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/u1704.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/wu-2.jpg" align="middle" width="320" alt="无界一点通"></a></td>
+</tr>
+<tr>
+	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/%E6%84%9B%E5%8D%9A%E4%BD%BF%E7%94%A82.jpg" align="middle" width="240" alt="爱博电视"></td>
+	<td></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/Green_iPPOTV.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/%E6%84%9B%E5%8D%9A%E4%BD%BF%E7%94%A81.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
+</tr>
+<tr>
+	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/iNTD%20TV.jpg" align="middle" width="240" alt="intdtv"></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/iNTD_TVsp1.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/iNTD%20TV-sp1.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
+	<td></td>
+</tr>
+</table>
+
+<img src="https://github.com/gofun72/telove/blob/master/img/fqReadme.gif" width="880">
+
+
