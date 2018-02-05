@@ -1,7 +1,7 @@
 <table align="center" >
 	<tr>
 		<td>
-		<img src="https://github.com/j168/j688/blob/master/menu/f-s1.jpg" width="800" hight="100">	
+		<img src="https://github.com/j168/j688/blob/master/menu/f-s1.jpg" width="800" hight="75">	
 		</td>	
 	</tr>	
 </table>
@@ -32,11 +32,11 @@
 	</tr><p>
 <tr>
 	<td><img src="https://github.com/j168/j688/blob/master/menu/intd.jpg" align="middle" width="250" alt="intdtv"></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/iNTD_TVsp1.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/intd-s.jpg" align="middle" width="250"  alt="intdtvsp1"></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/iNTD_TVsp1.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/intd-s.jpg" align="middle" width="300"  alt="intdtvsp1"></a></td>
 	<td></td>
 </tr>
 </table>
 
-<img src="https://github.com/gofun72/telove/blob/master/img/fqReadme.gif" width="880">
+
 
 
