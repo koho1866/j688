@@ -5,3 +5,4 @@
 [<H1><center> 下载翻墙软件下载点及使用说明 EPUB 格式电子书 </H1> https://github.com/j168/j688/blob/master/ebook/epub/fangqian%20(2).epub?raw=true
 	
 	
+[下载翻墙软件下载点及使用说明 EPUB 格式电子书](https://github.com/j168/j688/blob/master/ebook/epub/fangqian%20(2).epub?raw=true)
