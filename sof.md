@@ -13,21 +13,23 @@
 	<td></td>
 </tr>
 <tr>
-	<td><img src="https://github.com/j168/j688/blob/master/menu/fg.jpg" align="middle" width="270" alt="自由门"></td>
-	<td><a href="https://git.io/vN7BW"><img src="https://github.com/j168/j688/blob/master/menu/fra.jpg" align="middle" width="270" alt="自由门安卓"></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/frj.jpg" align="middle" width="270" alt="自由门桌机"></a> </td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fg-1.jpg" align="middle" width="270" alt="自由门fg"></a> </td>
+	<td><img src="https://github.com/j168/j688/blob/master/menu/fg1.jpg" align="middle" width="270" alt="自由门"></td>
+	<td><a href="https://git.io/vN7BW"><img src="https://github.com/j168/j688/blob/master/menu/fa.jpg" align="middle" width="270" alt="自由门安卓"></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fj.jpg" align="middle" width="270" alt="自由门桌机"></a> </td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fg.jpg" align="middle" width="270" alt="自由门fg"></a> </td>
 </tr>
 
 <tr>
-	<td><img src="https://github.com/j168/j688/blob/master/menu/wu-4.jpg" align="middle" width="240" alt="无界"></td>
-  <td><img src="https://github.com/j168/j688/blob/master/menu/wu-5.jpg" align="middle" width="240" alt="无界"></td>
-	<td><a href="https://git.io/vN74F"><img src="https://github.com/j168/j688/blob/master/menu/wu-1.jpg" align="middle" width="320" alt="无界一点通"></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/u1704.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/wu-2.jpg" align="middle" width="250" alt="无界一点通"></a></td>
+	<td><img src="https://github.com/j168/j688/blob/master/menu/wu.jpg" align="middle" width="260" alt="无界"></td>
+<td><a href="https://git.io/vN74F"><img src="https://github.com/j168/j688/blob/master/menu/wj-.jpg" align="middle" width="350" alt="无界桌机"></a></td>
+	<td><a href="https://git.io/vN74F"><img src="https://github.com/j168/j688/blob/master/menu/wa-.jpg" align="middle" width="350" alt="无界安卓"></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/u1704.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/wu2-.jpg" align="middle" width="350" alt="无界浏览"></a></td>
 </tr>
 <tr>
-	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/%E6%84%9B%E5%8D%9A%E4%BD%BF%E7%94%A82.jpg" align="middle" width="240" alt="爱博电视"></td>
-	<td></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/u1704.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/wu1.jpg" align="middle" width="250" alt="无界一点通"></a></td>	
+		<td><a href="https://github.com/gofun72/telove/blob/master/soft/u1704.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip-1v.jpg" align="middle" width="250" alt="爱博"></a></td>	
+		<td><a href="https://github.com/gofun72/telove/blob/master/soft/u1704.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip.jpg" align="middle" width="250" alt="爱博1"></a></td>	
+	</tr>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/Green_iPPOTV.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/%E6%84%9B%E5%8D%9A%E4%BD%BF%E7%94%A81.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
 </tr>
 <tr>
