@@ -8,9 +8,8 @@
 
 <table  width="800">
 <tr>
-	<td width="240"><img src="   " height="60" align="middle"></td>
-	<td></td>
-	<td></td>
+	<td><img src="https://github.com/j168/j688/blob/master/menu/break.jpg" width="900" align="middle"></td> 
+	
 </tr>
 <tr>
 	<td><img src="https://github.com/j168/j688/blob/master/menu/fg1.jpg" align="middle" width="270" alt="fg1" style="max-width:100%;"></a></td>
