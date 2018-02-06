@@ -6,16 +6,17 @@
 	</tr>	
 </table>
 
-<table  width="800">
 <tr>
-	<td><img src="https://github.com/j168/j688/blob/master/menu/break.jpg" width="900" align="middle"></td> 
+	<td><img src="https://github.com/j168/j688/blob/master/menu/break.jpg" width="600" align="middle"></td> 
 	
 </tr>
-<tr>
-	<td><img src="https://github.com/j168/j688/blob/master/menu/fg1.jpg" align="middle" width="270" alt="fg1" style="max-width:100%;"></a></td>
-	<td><a href="https://git.io/vN7BW"><img src="https://github.com/j168/j688/blob/master/menu/fa.jpg" align="middle" width="270" alt="fa"></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fj.jpg" align="middle" width="270" alt="fj"></a> </td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fg.jpg" align="middle" width="270" alt="fg"></a> </td>
+
+<table  width="800">
+	<tr>
+	<td><img src="https://github.com/j168/j688/blob/master/menu/fg1.jpg" align="middle" width="350" alt="fg1" style="max-width:100%;"></a></td>
+	<td><a href="https://git.io/vN7BW"><img src="https://github.com/j168/j688/blob/master/menu/fa.jpg" align="middle" width="350" alt="fa"></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fj.jpg" align="middle" width="350" alt="fj"></a> </td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fg.jpg" align="middle" width="350" alt="fg"></a> </td>
 </tr>
 
 <tr>
