@@ -37,6 +37,6 @@
 </tr>
 </table>
 
-
+<img src="https://github.com/j168/j688/blob/master/menu/fqReadme.gif" width="880">
 
 
