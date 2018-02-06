@@ -1,7 +1,7 @@
 <table align="center" >
 	<tr>
 		<td>
-		<img src="https://github.com/j168/j688/blob/master/menu/f-s2.jpg" width="840" hight="50">	
+		<img src="https://github.com/j168/j688/blob/master/menu/f-s2.jpg" width="860" hight="50">	
 		</td>	
 	</tr>	
 </table>
