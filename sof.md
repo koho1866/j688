@@ -6,10 +6,7 @@
 	</tr>	
 </table>
 
-<tr>
-	<td><img src="https://github.com/j168/j688/blob/master/menu/break.jpg" width="600" align="middle"></td> 
-	
-</tr>
+
 
 <table  width="800">
 	<tr>
