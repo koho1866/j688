@@ -59,16 +59,58 @@
 
 <h3>4、Bluefire Reader for Windows/iOS/Android</h3>
 
-<h3>4、Bluefire Reader for Windows/iOS/Android</h3>
 直接下载Windows版：<a href="storage.googleapis.com/windows_updates/setup_1_1_1006.exe" target="_blank">storage.googleapis.com/windows_updates/setup_1_1_1006.exe</a><br><br>
 
 
 <h1>其他款电子书</h1>
-<table cellspacing="2" cellpadding="2">
+<table  cellspacing="1" cellpadding="1">
+<tr  width="880">
+	<td  width="280"></td>
+	<td  width="600">說明</td>
+</tr>
+   <tr>
+	<td>【突破封锁看世界】翻墙软件手册</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/fangqian%20(2).epub?raw=true">圖文、視頻epub</a></td>
+</tr>
+   <tr>
+	<td>【九评共产党】</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/9ping.epub?raw=true">圖文epub</a></td>
+</tr>
+   <tr>
+	<td>【共产主义的终极目的中国篇】</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/gbUltiGoalCmChina.epub?raw=true">圖文epub</a>&nbsp;&nbsp;<a href="https://github.com/j168/j688/blob/master/epub/ultiGoalCmCN8k.epub?raw=true">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/j168/j688/blob/master/goaljo.md" target="_blank">mp4播报版 epub </a></td>
+  </tr>
    
-   <tr width="860">
-      <td> width="280"</td>
-      <td> width="600">說明</td>
-   </tr>
-   
+<tr>
+	<td>解體黨文化</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/jtdwh-2.0-20180107.epub?raw=true">圖文epub</a></td>
+</tr>
 
+<tr>
+	<td>马克思的成魔之路</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/Advanced-Seminar-cc-ppt-20161129.epub?raw=true">圖文epub</a></td>
+</tr>
+
+<tr>
+	<td>江泽民其人</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/jzmqr-pic-2.0-20161021.epub?raw=true">圖文epub</a></td>
+</tr>
+
+<tr>
+	<td>风雨天地行</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/fytdx-2.0-20161012.epub?raw=true">圖文epub</a></td>
+</tr>
+
+<tr>
+	<td>为什么要三退</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/whytd.epub?raw=true">圖文epub</a></td>
+</tr>
+<tr>
+	<td>死刑犯遮不住器官市场的蘑菇云</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/MRO-2.0-20161003.epub?raw=true">圖文epub</a></td>
+</tr>
+<tr>
+	<td>一位律师的肺腑直言</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/lawyer.epub?raw=true">圖文epub</a></td>
+</tr>
+</table>
