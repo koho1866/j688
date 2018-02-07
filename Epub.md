@@ -14,15 +14,14 @@
 用Safari浏览器下载该epub文件，然后点击右上角open in iBooks按钮，即可打开。
 
 <h3>2、安卓手机</h3>
-Reasily - EPUB 阅读器：(推荐)
-●直接下载Android版：https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn
+<h4>Reasily - EPUB 阅读器：(推荐)</h4>
+<span class="royal blue">●</span>直接下载Android版：<a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn">https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn <a><p></p>
 
+●可以安装谷歌的"Play 图书"（Play Books），安装后点击左上角那三条横杠的菜单，然后点击设置（Settings），允许PDF上传（Enable PDF uploading）。之后下载上面链接的《九评共产党》ePub电子书，选择“上传到Play图书”。再打开Play 图书，就能开始阅读《九评共产党》了。如果看不到这本书，可以点击右上角“刷新”（Refresh）按钮。<p></p>
 
-●可以安装谷歌的"Play 图书"（Play Books），安装后点击左上角那三条横杠的菜单，然后点击设置（Settings），允许PDF上传（Enable PDF uploading）。之后下载上面链接的《九评共产党》ePub电子书，选择“上传到Play图书”。再打开Play 图书，就能开始阅读《九评共产党》了。如果看不到这本书，可以点击右上角“刷新”（Refresh）按钮。
+●有些型号的安卓手机和平板电脑已预装了其它阅读器，比如“掌阅iReader” 、“掌上书苑”等。<p></p>
 
-●有些型号的安卓手机和平板电脑已预装了其它阅读器，比如“掌阅iReader” 、“掌上书苑”等。
-
-●不同的软件中，可以自行设定字体大小，一些快捷方式可以快速定位目录等功能。
+●不同的软件中，可以自行设定字体大小，一些快捷方式可以快速定位目录等功能。<p></p>
 
 
 <h2>二、电脑上网络浏览器中打开方法</h2>
