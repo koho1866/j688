@@ -36,7 +36,7 @@
 
 </table>
 
-<img src="https://github.com/j168/j688/blob/master/menu/fqReadme.gif" width="880">
+
 
 
 <h1>爱博电视使用说明</h1>
@@ -46,3 +46,6 @@
 
 
 <h2 a align="left"><b><a href="https://github.com/j168/j688/blob/master/Epub.md">● 手机上好看的电子书（ePub版)  手机、电脑打开方法，请这里下载！</a></b></h2>
+
+
+
