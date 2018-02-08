@@ -15,7 +15,7 @@
 </tr>
 <tr>
 	<td>无界</td>
-	<td><a href="https://github.com/j168/j688/blob/master/fq/wujieliulan_android_4.1_20171123.zip?raw=true">4.1</a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/fq/um4.2.apk?raw=true">4.2</a></td>
 	<td><a href="https://github.com/j168/j688/blob/master/fq/u1704.zip?raw=true">17.04</a></a></td>
 </tr>
 <tr>
