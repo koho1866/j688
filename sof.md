@@ -39,3 +39,6 @@
 <img src="https://github.com/j168/j688/blob/master/menu/fqReadme.gif" width="880">
 
 
+<h1>爱博电视使用说明</h1>
+<h2><a href="https://github.com/j168/j688/blob/master/menu/iPPOTV%20(1).mp4?raw=true">爱博电视教学视频：这是桌机版的软件，在桌机上全频观看会更清楚</a></h2>
+
