@@ -47,10 +47,10 @@
 
 
 <h1>爱博电视使用说明</h1>
-<h2><a href="https://github.com/j168/j688/blob/master/menu/iPPOTV%20(1).mp4?raw=true">爱博电视教学视频：这是桌机版的软件，在桌机上全频观看会更清楚</a></h2>
+<h2><a href="https://github.com/j168/j688/blob/master/menu/iPPOTV%20(1).mp4?raw=true">● 爱博电视教学视频：这是桌机版的软件，在桌机上全频观看会更清楚</a></h2>
 
 
-<h2 a align="left"><b><a href="https://github.com/j168/j688/blob/master/epub/fangqian%20(2).epub?raw=true">无界、自由门桌机、自由门手机使用说明(含爱博电视使用说明视频)请下载epub 电子书</a></h2></b>
+<h2 a align="left"><b><a href="https://github.com/j168/j688/blob/master/epub/fangqian%20(2).epub?raw=true">● 无界、自由门桌机、自由门手机使用说明(含爱博电视使用说明视频)请下载epub 电子书</a></h2></b>
 
 
 <h2 a align="left"><b><a href="https://github.com/j168/j688/blob/master/Epub.md">● 手机上好看的电子书（ePub版)  手机、电脑打开方法，请这里下载！</a></b></h2>
