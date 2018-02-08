@@ -20,4 +20,4 @@
 
 <h1>【神韵2018世界巡演预告片</h1>
 <img src="https://github.com/j168/j688/blob/master/menu/show1.jpg">
-<h3>■ 请收藏此网址</h3>
+<h3>■ 请收藏此网址 ■</h3>
