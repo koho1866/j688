@@ -40,9 +40,8 @@
      2017年12月10日             
 <p>
 <td>
-		<a href="https://vimeo.com/246679660"><img src="https://github.com/j168/j688/blob/master/img/2018-01-29_173701.jpg"                        width="500" hight="25">	
-		</td>	
-<tr>
+		<a href="https://vimeo.com/246679660"><img src="https://github.com/j168/j688/blob/master/img/2018-01-29_173701.jpg"                        width="500" hight="25"></a>	
+		</td>	<tr>
 
 
  <h3> 简介<br>
@@ -53,7 +52,9 @@
 
 本片以大量确凿的证据论证活摘法轮功学员器官不是民间行为，而是江泽民亲自下令，政法委分管，军队、司法系统执行的国家群体灭绝犯罪，是这个星球上没有过的罪恶。
 
-本片由新唐人电视台与追查国际联合制作。<p>
+本片由新唐人电视台与追查国际联合制作。<p><tr>
+	
+
 
 文字内容详见  <a href="http://www.zhuichaguoji.org/node/81845">相关连接</a> 《追查国际对中共大量活摘法轮功学员器官国家犯罪的调查报告（摘要）》<p>
 
