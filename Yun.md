@@ -14,23 +14,20 @@
   <br><br/>
 
 
-<h2 align="center"> 大陸頻道播放時間</h2>
+<h2 align="center"> 大陸頻道播放時間</h2> 
 
-<table border="1" cellspacing="10" cellpadding="3"> 
-	
-<tr>
-	
-	<td width=200;>日期</td>
-	<td width=200;>時間</td>
-	<td width=200;>备注</td>
+<table border="1" cellspacing="10" cellpadding="3">
+	<tr>
+		<td width=200;>日期</td>
+		<td width=200;>时间</td>
+		<td width=490;>备注</td>
 	</tr>
-    <tr>
-    	<td> 02/15 除夕</td>
-	<td> 20:00-23:00</td>
-	<td>神韵晚会 首播 180分钟</td>
 	
 
+	
+</table>
 
+<br/>
 <div align="center"><a href="https://github.com/j168/j688/blob/master/sof.md"><img src="https://github.com/j168/j688/blob/master/menu/fang.jpg" width="500" hight="25"></div>
 
 
