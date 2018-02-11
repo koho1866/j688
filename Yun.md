@@ -14,7 +14,7 @@
   <br><br/>
 
 
-<div h2 align="center"> 大陆频道播放时间</h2> 
+ <h2 align="center"> 大陆频道播放时间</h2> 
 
 <table border="1" cellspacing="10" cellpadding="3">
 	<tr>
@@ -23,20 +23,20 @@
 		<td width=200;>备注</td>
 	</tr>
 	<tr>
-		<td>02/15 周四</td>
-	        <td>晚上 20:00</td>
+		<td>02/15 除夕(周四）</td>
+	        <td> 20:00 </td>
 	</tr>
 	<tr>
-		<td> 02/15 周四</td>
-		<td> 晚上 23:00</td>
+		<td> 02/15 除夕(周四) </td>
+		<td>  23:00 </td>
 	</tr>
 	<tr>
-		<td> 02/16 周五</td>
-		<td> 早上 08:30</td>
+		<td> 02/16 初一(周五) </td>
+		<td>  08:30 </td>
 	</tr>
 	<tr>
-		<td> 02/16 周五</td>
-		<td> 下午 14:00</td>
+		<td> 02/16 初一(周五) </td>
+		<td>  14:00 </td>
 	</tr>
 </table></div>
 
