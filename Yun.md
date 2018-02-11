@@ -25,20 +25,50 @@
 	<tr>
 		<td>02/15 除夕(周四）</td>
 	        <td> 20:00 </td>
+		<td>神韵晚会 首播 180分钟</td>
 	</tr>
 	<tr>
 		<td> 02/15 除夕(周四) </td>
 		<td>  23:00 </td>
+		<td>神韵晚会 重播 180分钟</td>
 	</tr>
 	<tr>
 		<td> 02/16 初一(周五) </td>
 		<td>  08:30 </td>
+		<td>神韵晚会 重播 180分钟</td>
 	</tr>
 	<tr>
 		<td> 02/16 初一(周五) </td>
 		<td>  14:00 </td>
+		<td>神韵晚会 重播 180分钟</td>
 	</tr>
-</table></div>
+	<br/>
+	<hr>
+<table border="1" cellspacing="10" cellpadding="3">
+	<tr>
+	<td width=200;>日期</td>
+	<td width=200;>时间</td>
+	<td width=490;>备注</td>
+</tr>
+<tr>
+	<td>02/16 初一</td>
+	<td>20:00</td>
+	<td>神韵交响乐团 首播 120分钟</td>
+</tr>
+<tr>
+	<td>02/17 初二</td>
+	<td>08:30</td>
+	<td>神韵交响乐团 重播 120分钟</td>
+</tr>
+<tr>
+	<td>02/17 初二</td>
+	<td>17:00</td>
+	<td>神韵交响乐团 重播 120分钟</td>
+	</tr>
+	
+</table>
+
+
 
 <br/>
 <div align="center"><a href="https://github.com/j168/j688/blob/master/sof.md"><img src="https://github.com/j168/j688/blob/master/menu/fang.jpg" width="500" hight="25"></div>
