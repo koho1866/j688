@@ -20,7 +20,7 @@
 	<tr>
 		<td width=200;>日期</td>
 		<td width=200;>时间</td>
-		<td width=200;>备注</td>
+		<td width=490;>备注</td>
 	</tr>
 	<tr>
 		<td>02/15 除夕(周四）</td>
