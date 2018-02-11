@@ -14,59 +14,67 @@
   <br><br/>
 
 
- <h2 align="center"> 大陆频道播放时间</h2> 
+ <div align="center"><h2> <a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html"大陆频道播放时间如下:</a></h2> </div>
  
+ <div align="center"><h1>新年晚会</h1></div><p></p>
+  
 <table border="1" cellspacing="10" cellpadding="3">
 	<tr>
-		<td width=200;>日期</td>
-		<td width=200;>时间</td>
-		<td width=490;>备注</td>
+		<td width=220;>日期</td>
+		<td width=220;>时间</td>
+		<td width=440;>备注</td>
 	</tr>
 	<tr>
 		<td>02/15 除夕(周四）</td>
-	        <td> 20:00 </td>
-		<td>神韵晚会 首播 180分钟</td>
+	        <td> 20:00-23:00 </td>
+		<td>新年晚会 首播 180分钟</td>
 	</tr>
 	<tr>
 		<td> 02/15 除夕(周四) </td>
-		<td>  23:00 </td>
-		<td>神韵晚会 重播 180分钟</td>
+		<td>  23:00-02:00 </td>
+		<td>新年晚会 重播 180分钟</td>
+	</tr>
+	<p></p><tr>
+		<td width=220;>日期</td>
+		<td width=220;>时间</td>
+		<td width=440;>备注</td>
 	</tr>
 	<tr>
-		<td> 02/16 初一(周五) </td>
-		<td>  08:30 </td>
-		<td>神韵晚会 重播 180分钟</td>
+		<td> 02/16大年初一(周五)</td>
+		<td>  08:30-11:30 </td>
+		<td>新年晚会 重播 180分钟</td>
 	</tr>
 	<tr>
-		<td> 02/16 初一(周五) </td>
-		<td>  14:00 </td>
-		<td>神韵晚会 重播 180分钟</td>
+		<td> 02/16 大年初一(周五) </td>
+		<td>  14:00-17:00 </td>
+		<td>新年晚会 重播 180分钟</td>
 	</tr>
-	<br/>
 	<hr>
-<table border="1" cellspacing="10" cellpadding="3">
+	<div align="center"><h1>神韵交响乐团</h1></div><p></p>
+	<table width = 90%>
+	<table border="1" cellspacing="10" cellpadding="3">
 	<tr>
-	<td width=200;>日期</td>
-	<td width=200;>时间</td>
-	<td width=490;>备注</td>
+	<td width=220;>日期</td>
+	<td width=220;>时间</td>
+	<td width=440;>备注</td>
 </tr>
 <tr>
-	<td>02/16 初一</td>
-	<td>20:00</td>
-	<td>神韵交响乐团 首播 120分钟</td>
+	<td> 02/16 大年初一</td>
+	<td>20:00-</td>
+	<td>神韵交响乐团2017年演出</td>
 </tr>
 <tr>
-	<td>02/17 初二</td>
-	<td>08:30</td>
-	<td>神韵交响乐团 重播 120分钟</td>
+	<td>02/17 大年初二</td>
+	<td>08:30-</td>
+	<td>神韵交响乐团2017年演出</td>
 </tr>
 <tr>
-	<td>02/17 初二</td>
-	<td>17:00</td>
-	<td>神韵交响乐团 重播 120分钟</td>
+	<td>02/17 大年初二</td>
+	<td>17:00-</td>
+	<td>神韵交响乐团2017年演出</td>
 	</tr>
 	
-</table>
+</table> <p></P>
 
 
 
