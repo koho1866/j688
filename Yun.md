@@ -95,6 +95,6 @@
 
 [<div align="center"><h2>下载翻墙软件下载点及使用说明 EPUB 格式电子书</h2></div>](https://github.com/j168/j688/blob/master/ebook/epub/fangqian%20(2).epub?raw=true)
 
-<h1>【神韵2018世界巡演预告片</h1>
+
 <img src="https://github.com/j168/j688/blob/master/menu/show1.jpg">
 
