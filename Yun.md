@@ -43,7 +43,7 @@
 		<td>  23:00-02:00 </td>
 		<td>新年晚会 重播 180分钟</td> 
 	</tr></table><table>
-<p></p><tr>
+     <tr>
 		<td width=220;>日期</td>
 		<td width=220;>时间</td>
 		<td width=440;>备注</td>
@@ -58,7 +58,7 @@
 		<td>  14:00-17:00 </td>
 		<td>新年晚会 重播 180分钟</td>
 	</tr>
-	<hr></table>
+	</table>
 	<p></P>
 	
 <div align="center"><h1>神韵交响乐团</h1></div><p></p>
