@@ -1,7 +1,7 @@
 
  
  
-<img src="https://github.com/j168/j688/blob/master/img/19-2.jpg" width="800">
+<img src="https://github.com/j168/j688/blob/master/menu/show(2018).jpg" width="880">
   
  <div align="center"><h1>收看新唐人全球华人新年晚会的方法</h1>
 	
