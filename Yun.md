@@ -27,7 +27,7 @@
  
  <div align="center"><h1> 新年晚会 </h1></div><p></p>
   
-<table border="1" cellspacing="10" cellpadding="3">
+<table border="0" cellspacing="10" cellpadding="3">
 	<tr>
 		<td width=220;>日期</td>
 		<td width=220;>时间</td>
@@ -63,7 +63,7 @@
 	
 <div align="center"><h1>神韵交响乐团</h1></div><p></p>
 <table width = 90%>
-	<table border="1" cellspacing="10" cellpadding="3">
+	<table border="0" cellspacing="10" cellpadding="3">
 	<tr>
 	<td width=220;>日期</td>
 	<td width=220;>时间</td>
