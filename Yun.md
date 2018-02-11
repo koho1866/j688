@@ -14,24 +14,31 @@
   <br><br/>
 
 
-<h2 align="center"> 大陆频道播放时间</h2> 
+<div h2 align="center"> 大陆频道播放时间</h2> 
 
 <table border="1" cellspacing="10" cellpadding="3">
 	<tr>
 		<td width=200;>日期</td>
 		<td width=200;>时间</td>
-		<td width=490;>备注</td>
+		<td width=200;>备注</td>
 	</tr>
 	<tr>
 		<td>02/15 周四</td>
 	        <td>晚上 20:00</td>
 	</tr>
 	<tr>
-		<td> 0215 周四</td>
+		<td> 02/15 周四</td>
 		<td> 晚上 23:00</td>
 	</tr>
-	
-</table>
+	<tr>
+		<td> 02/16 周五</td>
+		<td> 早上 08:30</td>
+	</tr>
+	<tr>
+		<td> 02/16 周五</td>
+		<td> 下午 14:00</td>
+	</tr>
+</table></div>
 
 <br/>
 <div align="center"><a href="https://github.com/j168/j688/blob/master/sof.md"><img src="https://github.com/j168/j688/blob/master/menu/fang.jpg" width="500" hight="25"></div>
