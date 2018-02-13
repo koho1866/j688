@@ -68,6 +68,10 @@
 	<td  width="280"></td>
 	<td  width="600">說明</td>
 </tr>
+ <tr>
+	<td>2018新唐人全球华人新年晚会——神韵晚会</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/gala2018.epub?raw=true">圖文、視頻epub</a></td>
+</tr>
    <tr>
 	<td>【突破封锁看世界】翻墙软件手册</td>
 	<td><a href="https://github.com/j168/j688/blob/master/epub/fangqian%20(2).epub?raw=true">圖文、視頻epub</a></td>
