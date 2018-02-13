@@ -96,5 +96,5 @@
 
 <h2>大陆观众可通过韩星五号的新唐人中国频道收看<a href="https://github.com/j168/j688/blob/master/Yun-1.md">  播出参数</a></h2>
 <p></P>
-<img src="https://github.com/j168/j688/blob/master/menu/show2.jpg">
+<a href="https://github.com/j168/j688/blob/master/epub/gala2018.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/show2.jpg">
 
