@@ -24,7 +24,7 @@
 <tr>
 	<td><a href="https://github.com/j168/j688/blob/master/fq/iNTD_TV.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/intd.jpg" align="middle" width="300" alt="intdtv"></td>
 	<td><a href="https://github.com/j168/j688/blob/master/fq/iNTD_TVsp1.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/intd-s.jpg" align="middle" width="300"  alt="intdtvsp1"></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fg.jpg" align="middle" width="300" alt="fg"></a> </td>
+
 	
 </tr>
 	
@@ -53,7 +53,7 @@
 
 
 <hr>
- <h1 id="sigil_toc_id_3" class="userGuide">无界一点通使用说明</h1>
+ <h1 id="sigil_toc_id_3" align="center" class="userGuide">无界一点通使用说明</h1>
 
   <ol>
     <li>无界一点通是安卓版的翻墙软件，让您看到没有被过滤的真实讯息。适用于安卓2.2及以上的安卓手机/安卓机顶盒等安卓平台。此使用说明适用于最新版的无界一点通。</li>
@@ -196,7 +196,7 @@
     </ol>
   </div>
 
-  <h1 class="userGuide" id="sigil_toc_id_17">无界浏览使用说明</h1>
+  <h1 class="userGuide" id="sigil_toc_id_17" align="center">无界浏览使用说明</h1>
 
   <p class="p1">以用户的安全与使用方便为第一、无界网络公司的网络专家们集多年互联网高技术的研发与创新经验，不断将突破网络封锁的技术改朝换代。</p>
 
@@ -469,7 +469,7 @@
 <!--===============================================  -->
 
 
-<h1>自由门软件使用说明书</h1>
+<h1 align="center">自由门软件使用说明书</h1>
 
 <p class="p1">自由门高级版：最新一代技术，突破封锁能力最强。需要管理员权限，个别网络环境不能使用。其它与专业版相似。</p>
 <p class="p1">自由门专业版：历史最久，使用人数最多。自由门会自动设置IE代理。如果使用其它浏览器（火狐浏览器），请自行设置浏览器的代理服务器(127.0.0.1:8580)后浏览。</p>
