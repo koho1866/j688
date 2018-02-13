@@ -92,8 +92,11 @@
 
 [<div align="center"><h2>下载翻墙软件下载点及使用说明 EPUB 格式电子书</h2></div>](https://github.com/j168/j688/blob/master/ebook/epub/fangqian%20(2).epub?raw=true)
 
-
 <h2>大陆观众可通过韩星五号的新唐人中国频道收看<a href="https://github.com/j168/j688/blob/master/Yun-1.md">  播出参数</a></h2>
+
+<h2 align="center">■手机上好看的电子书 (ePub版)</h2>
+<a href="https://github.com/j168/j688/blob/master/Epub.md"> 
+
 <p></P>
 <a href="https://github.com/j168/j688/blob/master/epub/gala2018.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/show2.jpg">
 
