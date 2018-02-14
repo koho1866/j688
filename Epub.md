@@ -80,6 +80,10 @@
 	<td>【九评共产党】</td>
 	<td><a href="https://github.com/j168/j688/blob/master/epub/9ping.epub?raw=true">圖文epub</a></td>
 </tr>
+	<tr>
+	<td>（播报版）【共产主义的终极目的中国篇】全书一至六章</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/%EF%BC%88%E6%92%AD%E6%8A%A5%E7%89%88%EF%BC%89%E3%80%90%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%9A%84%E7%BB%88%E6%9E%81%E7%9B%AE%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%AF%87%E3%80%91%E5%85%A8%E4%B9%A6%E4%B8%80%E8%87%B3%E5%85%AD%E7%AB%A0/goalmp4Npf.epub?raw=true">圖文epub mp4播报版</a></td>
+	</tr>
    <tr>
 	<td>【共产主义的终极目的中国篇】</td>
 	<td><a href="https://github.com/j168/j688/blob/master/epub/gbUltiGoalCmChina.epub?raw=true">圖文epub</a>&nbsp;&nbsp;<a href="https://github.com/j168/j688/blob/master/epub/ultiGoalCmCN8k.epub?raw=true">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/j168/j688/blob/master/goaljo.md" target="_blank">mp4播报版 epub </a></td>
