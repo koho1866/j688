@@ -12,8 +12,6 @@
 
 <h3>五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！</h3>
 
-<h4><a href="http://zh-tw.shenyun.com/">海外观众如要观看最新的〝神韵晚会″，请到当地剧院买票观看，演出行程可以查询：www.shenyun.com</a></h4>
-
 
 <h3>这场晚会是最新的神韵晚会节目，但只限于中国大陆地区收看。 请通过翻墙软件自由门、无界浏览或iNTD TV看观 ，并请锁定中国频道这个网址：<a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">http://www.ntdtv.com/xtr/gb/tv_ch1china.html</a><h3>
 
@@ -22,6 +20,9 @@
   <br><br/>
   
   <h2 a align="center"><a href="https://github.com/j168/j688/blob/master/epub/gala2018.epub?raw=true"> ★★新年期间播出时间电子书下載(ePub版)★★</h2>
+  
+  <h3><a href="http://zh-tw.shenyun.com/">海外观众如要观看最新的〝神韵晚会″，请到当地剧院买票观看，演出行程可以查询：www.shenyun.com</a></h3>
+  
   
 
  <div align="center"><h2><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">大陆频道播放时间如下:</a></h2></div>
