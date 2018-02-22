@@ -3,9 +3,10 @@
  
 <img src="https://github.com/j168/j688/blob/master/menu/show(2018).jpg" width="880">
   
- <div align="center"><h1>收看新唐人全球华人新年晚会的方法</h1>
+ <div align="center"><h1>新唐人新年期间播出2018全球华人新年晚会</h1>
+<div align="center"><h1>全球华人新年晚会是本年度的最新神韵晚会，目前已经结束。往年元宵节还会有一场回放，如果再错过可能还得再等一年，请大家告诉大家，并请先下载翻墙软件，详细阅读下方的收视方法。 </h1></div>	<p></P>
 	
-	
+
 <h3>【新唐人北京时间2018年02月11日讯】神韵艺术团世界巡回演出，场场爆满一票难求。中国新年期间新唐人电视台将独家播出2018新唐人全球华人新年晚会——神韵晚会，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
 </h3><p></p>
 
@@ -13,7 +14,6 @@
 
 <h4><a href="http://zh-tw.shenyun.com/">海外观众如要观看最新的〝神韵晚会″，请到当地剧院买票观看，演出行程可以查询：www.shenyun.com</a></h4>
 
-<div align="center"><h1>请大家告诉大家，错过可能得等到元宵节回放！</h1></div>
 
 <h3>这场晚会是最新的神韵晚会节目，但只限于中国大陆地区收看。 请通过翻墙软件自由门、无界浏览或iNTD TV看观 ，并请锁定中国频道这个网址：<a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">http://www.ntdtv.com/xtr/gb/tv_ch1china.html</a><h3>
 
