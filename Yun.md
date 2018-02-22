@@ -18,12 +18,11 @@
 <h3>✪✪ 特别特别推荐这款(爱博电视桌机版)
  <a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip.jpg" width="80"></a> 平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3>
   <br><br/>
-  
-  <h2 a align="center"><a href="https://github.com/j168/j688/blob/master/epub/gala2018.epub?raw=true"> ★★新年期间播出时间电子书下載(ePub版)★★</h2>
-  
+ 
+   
   <h3><a href="http://zh-tw.shenyun.com/">海外观众如要观看最新的〝神韵晚会″，请到当地剧院买票观看，演出行程可以查询：www.shenyun.com</a></h3>
   
-  
+   <h2 a align="center"><a href="https://github.com/j168/j688/blob/master/epub/gala2018.epub?raw=true"> ★★新年期间播出时间电子书下載(ePub版)★★</h2>
 
  <div align="center"><h2><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">大陆频道播放时间如下:</a></h2></div>
  
