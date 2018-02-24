@@ -68,6 +68,10 @@
 	<td  width="280"></td>
 	<td  width="600">說明</td>
 </tr>
+	<tr>
+	<td>（音频版）【共产主义的终极目的中国篇全书】</td>
+	<<td><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalmp3Np.epub?raw=true">圖文、視頻epub</a></td>
+</tr>
 <tr>
 	<td>2018年神韵晚会台湾场次表</td>
 	<<td><a href="https://github.com/j168/j688/blob/master/epub/syAgendaTw.epub?raw=true">圖文、視頻epub</a></td>
