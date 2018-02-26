@@ -28,7 +28,7 @@
 ### 否则要安装 chrome 的 插件 <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl"  target="_blank">readium</a>,才能阅读
 ### 至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
 ******
-### 您也可以先下载 [音频版 mp3 epub（简体版全书）方便聆听、阅读。 ](https://github.com/j168/j688/blob/master/ebook/epub/goalmp3Npr.epub?raw=true) , 或是 [大纪元的 文本 epub 电子书](https://github.com/j168/j688/blob/master/ebook/epub/gbUltiGoalCmChina.epub?raw=true)
+### 您也可以先下载 [音频版 mp3 epub（简体版全书）方便聆听、阅读 ](https://github.com/j168/j688/blob/master/ebook/epub/goalmp3Npr.epub?raw=true) , 或是 [大纪元的 文本 epub 电子书](https://github.com/j168/j688/blob/master/ebook/epub/gbUltiGoalCmChina.epub?raw=true)
  
 ******
 </td>
