@@ -70,7 +70,7 @@
 </tr>
 	<tr>
 	<td>（音频版）【共产主义的终极目的中国篇全书】</td>
-       <td><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalmp3Np.epub?raw=true">圖文、視頻epub</a></td>
+       <td><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalmp3Npr.epub?raw=true">圖文、視頻epub</a></td>
 </tr>
 <tr>
 	<td>2018年神韵晚会台湾场次表</td>
@@ -94,7 +94,7 @@
 	</tr>
    <tr>
 	<td>【共产主义的终极目的中国篇】</td>
-	<td><a href="https://github.com/j168/j688/blob/master/epub/gbUltiGoalCmChina.epub?raw=true">圖文epub</a>&nbsp;&nbsp;<a href="https://github.com/j168/j688/blob/master/epub/ultiGoalCmCN8k.epub?raw=true">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/j168/j688/blob/master/goaljo.md" target="_blank">mp4播报版 epub </a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/gbUltiGoalCmChina.epub?raw=true">圖文epub</a>&nbsp;&nbsp;<a href="https://github.com/j168/j688/blob/master/ebook/epub/goalmp3Npr.epub?raw=true">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/j168/j688/blob/master/goaljo.md" target="_blank">mp4播报版 epub </a></td>
   </tr>
    
    
