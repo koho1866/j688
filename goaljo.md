@@ -12,9 +12,14 @@
 ### 下部《共产主义的终极目的（世界篇）》
 ### 大纪元将首先发表上部《中国篇》，下部将在不久以后推出，敬请关注。
 
+<div align="center">
+	<img src="https://github.com/j168/j688/blob/master/img/goal1.jpg" width="380"></div>
+<h4 align="center">《共产主义的终极目的》新书封面。（博大出版社）</h4>
+
+
 ******
 
-## 共产主义来自何处？
+## <a href="https://github.com/j168/j688/blob/master/epub/9ping.epub?raw=true">共产主义来自何处？</a>
 ## 为什么宇宙中会冒出个共产党？
 ## 共产主义的本质究竟是什么？
 ## 结局又会怎样？
