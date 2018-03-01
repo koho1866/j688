@@ -1,7 +1,7 @@
 
  
  
-<img src="https://github.com/j168/j688/blob/master/menu/show(2018).jpg" width="880">
+<img src="https://github.com/j168/j688/blob/master/menu/symphony.jpgg" width="880">
   
  <div align="center"><h1>【预告】新唐人元宵节播出2017年神韵交响音乐会</h1>
 <div align="center"><h2>全球华人新年晚会是本年度的最新神韵晚会，目前已经结束。 </h2></div>	<p></P>
