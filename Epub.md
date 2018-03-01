@@ -73,13 +73,10 @@
        <td><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalmp3Npr.epub?raw=true">圖文、視頻epub</a></td>
 </tr>
 <tr>
-	<td>2018年神韵晚会台湾场次表</td>
-	<td><a href="https://github.com/j168/j688/blob/master/epub/gala20181.epub?raw=true">圖文epub</a></td>
+	<td>新唐人2018全球华人新年晚会播出通告</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/gala20181.epub?raw=true">圖文、視頻epub</a></td>
 </tr>
- <tr>
-	<td>2018新唐人全球华人新年晚会——神韵晚会</td>
-	<td><a href="https://github.com/j168/j688/blob/master/epub/gala2018.epub?raw=true">圖文、視頻epub</a></td>
-</tr>
+ 
    <tr>
 	<td>【突破封锁看世界】翻墙软件手册</td>
 	<td><a href="https://github.com/j168/j688/blob/master/epub/fangqian%20(2).epub?raw=true">圖文、視頻epub</a></td>
