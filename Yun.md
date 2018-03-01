@@ -9,11 +9,11 @@
 <h3>【新唐人北京时间2018年02月27日讯】3月2日是正月十五元宵节。新唐人电视台将播出〝神韵交响乐团2017年演出〞。在大陆、纽约、美西、欧洲等全球五个频道播放。新唐人网站与电视台同时播放。如果再错过可能还得再等一年</h3>
 
 <h3>五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！</h3>
-<h2>神韵交响乐团以洪大的交响乐再现中华音乐传统，由中国器乐领衔，搭配西方经典曲目，重现失传的美声唱法，带给您前所未有的启迪。</h2></div>	<p></P>
+<h2>神韵交响乐团以洪大的交响乐再现中华音乐传统，由中国器乐领衔，搭配西方经典曲目，重现失传的美声唱法，带给您前所未有的启迪。</h2></div><p></P>
 <h1>请大家告诉大家，并请先下载翻墙软件 详细阅读下方的收视方法。</h1> 
 <p></P>
 
-<h3>这场晚会 大陆區请通过翻墙软件自由门、无界浏览或iNTD TV看观 ，并请锁定中国频道这个网址：<a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">http://www.ntdtv.com/xtr/gb/tv_ch1china.html</a><h3>
+<h3>这场晚会 大陆地區 请通过翻墙软件自由门、无界浏览或iNTD TV看观 ，并请锁定中国频道这个网址：<a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">http://www.ntdtv.com/xtr/gb/tv_ch1china.html</a><h3>
 
 <h3>✪✪ 特别特别推荐这款(爱博电视桌机版)
  <a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip.jpg" width="80"></a> 平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3>
@@ -24,7 +24,7 @@
   
    <h2 a align="center"><a href="https://github.com/j168/j688/blob/master/epub/gala2018.epub?raw=true"> ★★神韵晚会台湾演出场次表电子书下载(ePub版)★★</h2>
 
- <div align="center"><h2><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">大陆频道播放时间如下:</a></h2></div>
+ <div align="center"><h1><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">大陆频道播放时间如下:</a></h1></div>
    	<p></P>
 	
 <div align="center"><h1>《2017神韵交响乐团音乐会》播出时间</h1></div><p></p>
