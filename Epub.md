@@ -74,7 +74,7 @@
 </tr>
 <tr>
 	<td>新唐人2018全球华人新年晚会播出通告</td>
-	<td><a href="https://github.com/j168/j688/blob/master/epub/gala20181.epub?raw=true">圖文、視頻epub</a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/gala%2020181.epub?raw=true">圖文、視頻epub</a></td>
 </tr>
  
    <tr>
