@@ -22,7 +22,7 @@
    
   <h3><a href="http://zh-tw.shenyun.com/">海外观众如要观看最新的〝2018年神韵晚会″，请到当地剧院买票观看，演出行程可以查询：www.shenyun.com</a></h3>
   
-   <h2 a align="center"><a href="https://github.com/j168/j688/blob/master/epub/gala2018.epub?raw=true"> ★★神韵晚会台湾演出场次表电子书下载(ePub版)★★</h2>
+   <h2 a align="center"><a href="https://github.com/j168/j688/blob/master/epub/gala20181.epub?raw=true"> ★★神韵晚会台湾演出场次表电子书下载(ePub版)★★</h2>
 
  <div align="center"><h1><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">大陆频道播放时间如下:</a></h1></div>
    	<p></P>
