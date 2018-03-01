@@ -74,7 +74,7 @@
 </tr>
 <tr>
 	<td>2018年神韵晚会台湾场次表</td>
-	<td><a href="https://github.com/j168/j688/blob/master/epub/syAgendaTw.epub?raw=true">圖文epub</a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/gala20181.epub?raw=true">圖文epub</a></td>
 </tr>
  <tr>
 	<td>2018新唐人全球华人新年晚会——神韵晚会</td>
