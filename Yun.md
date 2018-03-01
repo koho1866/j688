@@ -4,7 +4,7 @@
 <img src="https://github.com/j168/j688/blob/master/menu/symphony.jpg" width="880">
   
  <div align="center"><h1>新唐人元宵节期间播出2017年神韵交响乐团音乐会</h1>
-<div align="lift"><h3>
+<div align="left"><h3>
 	
 <h2>【新唐人北京时间2018年02月27日讯】3月2日是正月十五元宵节。新唐人电视台将播出〝神韵交响乐团2017年演出〞。在大陆、纽约、美西、欧洲等全球五个频道播放。新唐人网站与电视台同时播放。如果再错过可能还得再等一年</h2>
 
