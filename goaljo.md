@@ -82,4 +82,10 @@
 </tr>
 </table>
 
+<img src="https://github.com/j168/j688/blob/master/menu/goalj.jpg">
+
+
 <td><!-- <a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh6.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/img/coal123AS.jpg" width="265"  border="0" alt=""></a> --></td>
+
+
+
