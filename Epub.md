@@ -69,6 +69,10 @@
 	<td  width="600">說明</td>
 </tr>
 	<tr>
+	<td> 三退大潮席卷全球 三亿人觉醒见证中共末日</td>
+       <td><a href="https://github.com/j168/j688/blob/master/epub/300Mst.epub?raw=true">圖文、視頻、音频epub</a></td>
+</tr>
+	<tr>
 	<td>（音频版）【共产主义的终极目的中国篇全书】</td>
        <td><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalmp3Npr.epub?raw=true">圖文、視頻epub</a></td>
 </tr>
