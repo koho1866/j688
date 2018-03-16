@@ -65,7 +65,7 @@
 <h2 a align="center"><a href="https://github.com/j168/j688/blob/master/Epub.md">■手机上好看的电子书系列 (ePub版)</h2>
 
 <p></P>
-<a href="https://github.com/j168/j688/blob/master/epub/gala%2020181.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/show1.jpg">
+<a href="https://github.com/j168/j688/blob/master/epub/gala%2020181.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/show2.jpg">
 	
 
 
