@@ -78,11 +78,14 @@
 	<td><center><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh11.epub?raw=true">【共产主义的终极目的】（11）</a></center></td>
 	<td><center><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh12.epub?raw=true">【共产主义的终极目的】（12）</a></center></td>
 </tr>
-	<td><center>&nbsp;</center></td>
-</tr>
+	<td><center></center></td>
 </table>
 
-<img src="https://github.com/j168/j688/blob/master/menu/goal2.jpg">
+ <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/goal2.jpg" width="480" ></div>
+
+
+
+
 
 
 <td><!-- <a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh6.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/img/coal123AS.jpg" width="265"  border="0" alt=""></a> --></td>
