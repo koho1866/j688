@@ -36,8 +36,8 @@
 然而，令江泽民没想到的是，中央电视台制作的自焚节目漏洞百出，恰恰证明了法轮功被诬陷的实质。让我们从号称“用事实说话”的《焦点访谈》中寻找真相。
 
 <h4> 1、“烧不破的雪碧瓶”</h4></br>
-《焦点访谈》的录像特写显示，王进东的脸被烧黑，衣服被烧成七零八落，想必是经历了一场大火。然而此时的他却仍呈打坐状，而且坐姿稳如一座大钟。与炒菜时胳膊上溅一滴油都疼得马上打哆嗦相比，全身着火还能纹丝不动的可能性为零。更明显的破绽是，他脸被烧焦，理应先烧着的头发和眉毛却完好无损，连两腿间夹的盛汽油的雪碧瓶都翠绿如新。
-<br>
+《焦点访谈》的录像特写显示，王进东的脸被烧黑，衣服被烧成七零八落，想必是经历了一场大火。然而此时的他却仍呈打坐状，而且坐姿稳如一座大钟。与炒菜时胳膊上溅一滴油都疼得马上打哆嗦相比，全身着火还能纹丝不动的可能性为零。更明显的破绽是，他脸被烧焦，理应先烧着的头发和眉毛却完好无损，连两腿间夹的盛汽油的雪碧瓶都翠绿如新。</br>
+
 <tr>
 <td colspan=1>
 <div align=center><img src="https://github.com/j168/j688/blob/master/img/2018-03-19_lo.jpg" width="780"></div></td></tr>
@@ -48,14 +48,19 @@
 这就是中共流氓面目的写照。
 
 <h4>2、“不靠声带发声的刘思影”</h4>
+
 新华社声称，十二岁的刘思影身体大面积烧伤，并导致呼吸道受阻。医院对她进行气管切开手术，然后在声带下方插了一个插管，供她呼吸。也就是说，气流不经过声带，她根本不可能发声。然而，刘思影竟能自如的跟记者对话，甚至唱歌，完全违背科学。
+
+</br>
 <tr>
 <td colspan=1>
-<div align=center><img src="https://github.com/j168/j688/blob/master/img/2018-03-19_ce1.jpg" width="680"></div></td></tr>
+<div align=center><img src="https://github.com/j168/j688/blob/master/img/2018-03-19_ce1.jpg" width="650"></div></td></tr>
 <p>
+	
 <h4>3、“被当场灭口的刘春玲”</h4>
 
-把警察给刘春玲灭火的片段放慢，可以清晰无误地看到，在刘春玲身上的火快要熄灭时，一伸直的手臂突然猛击她的后脑勺，一条状物迅速弹起，刘春玲随之倒地。这个细节总共不到五秒钟。	
+把警察给刘春玲灭火的片段放慢，可以清晰无误地看到，在刘春玲身上的火快要熄灭时，一伸直的手臂突然猛击她的后脑勺，一条状物迅速弹起，刘春玲随之倒地。这个细节总共不到五秒钟。
+</br>
 <tr>
 <td colspan=1>
 <div align=center><img src="https://github.com/j168/j688/blob/master/img/2018-03-19_ma.jpg" width="680"></div></td></tr>
@@ -95,18 +100,16 @@
 
 虽然“自焚”谎言喧嚣一时，但其漏洞百出，将成中共最大的丑事。“自焚”伪案将中共邪党的流氓、欺骗和党天下的邪教本质暴露无遗。
 
-有句话说得好：做人先退党。如今，在天灭中共的天象下，退出共产党，善待法轮功，当历史走过这一页，你将为今天的正义之举感到无比荣幸。
+<b>有句话说得好：做人先退党。如今，在天灭中共的天象下，退出共产党，善待法轮功，当历史走过这一页，你将为今天的正义之举感到无比荣幸。<b>
 
 
+<a href="https://github.com/j168/j688/blob/master/zfmp4/zaizang.mp4?raw=true"><img src="https://github.com/j168/j688/blob/master/img/2018-03-zaizang.jpg" width="200">
 
+<a href="https://github.com/j168/j688/blob/master/zfmp4/burn-or-hit.mp4?raw=true"><img src="https://github.com/j168/j688/blob/master/img/2018-03-burn.jpg" width="200">
 
-<a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh1.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/img/2018-03-zaizang.jpg" width="200">
+<a href="https://github.com/j168/j688/blob/master/zfmp4/sprite.mp4?raw=true"><img src="https://github.com/j168/j688/blob/master/img/2018-03-sprite.jpg" width="200">
 
-<a href=""><img src="https://github.com/j168/j688/blob/master/img/2018-03-burn.jpg" width="200">
-
-<a href=""><img src="https://github.com/j168/j688/blob/master/img/2018-03-sprite.jpg" width="200">
-
-<a href=""><img src="https://github.com/j168/j688/blob/master/img/2018-03-Photo.jpg" width="200">
+<a href="https://github.com/j168/j688/blob/master/zfmp4/Photographer.mp4?raw=true"><img src="https://github.com/j168/j688/blob/master/img/2018-03-Photo.jpg" width="200">
 
 
 
