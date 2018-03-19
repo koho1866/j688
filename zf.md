@@ -41,14 +41,16 @@
 <tr>
 	<td colspan=1>
 <div align=center><img src="https://github.com/j168/j688/blob/master/img/2018-03-19_lo.jpg" width="780"></div></td></tr>
+<p>
 
 二零零二年初，自称是央视记者的李玉强到河北省会的洗脑班（所谓的“法制教育中心”）与法轮功学员“座谈”，被质问“王进东两腿间的雪碧瓶为什么烧不破”时，面对铁证，只好吐露了实情：“王进东两腿间的雪碧瓶是她们放进去的，此镜头是事后‘补拍’的，为的是让人相信是法轮功在自焚。”李还辩解道“早知道被识破就不拍了。”
 
 这就是中共流氓面目的写照。
 
-2、“不靠声带发声的刘思影”
+<h4>2、“不靠声带发声的刘思影”</h4>
 
 新华社声称，十二岁的刘思影身体大面积烧伤，并导致呼吸道受阻。医院对她进行气管切开手术，然后在声带下方插了一个插管，供她呼吸。也就是说，气流不经过声带，她根本不可能发声。然而，刘思影竟能自如的跟记者对话，甚至唱歌，完全违背科学。
-
+<tr>
 <td colspan=1>
-<div align=center><img src="https://github.com/j168/j688/blob/master/img/2018-03-19_ce1.jpg" width="780"></div></td></tr></table>
+<div align=center><img src="https://github.com/j168/j688/blob/master/img/2018-03-19_ce1.jpg" width="680"></div></td></tr>
+<p>
