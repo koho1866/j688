@@ -2,6 +2,7 @@
 <h1  align="center">伪火十六载　今朝丑戏完</h1>
 
 文: 中国大陆法轮功学员打印 </br>
+
 【明慧网二零一七年一月二十二日】十六年前的一月二十三日，发生了人类历史上黑暗的一幕。中共江泽民集团导演天安门自焚骗局，栽赃陷害法轮功。回顾这场欺骗了无数人的阴谋，是为了给所有有做人底线的人一次思考和选择正义的机会，并让这样的悲剧不再发生。
 </br>
 <b><h3>一、十六年前的弥天大谎——天安门自焚</h3></b></br>
@@ -95,4 +96,20 @@
 虽然“自焚”谎言喧嚣一时，但其漏洞百出，将成中共最大的丑事。“自焚”伪案将中共邪党的流氓、欺骗和党天下的邪教本质暴露无遗。
 
 有句话说得好：做人先退党。如今，在天灭中共的天象下，退出共产党，善待法轮功，当历史走过这一页，你将为今天的正义之举感到无比荣幸。
+
+
+
+
+<a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh1.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/img/2018-03-zaizang.jpg" width="200">
+
+<a href=""><img src="https://github.com/j168/j688/blob/master/img/2018-03-burn.jpg" width="200">
+
+<a href=""><img src="https://github.com/j168/j688/blob/master/img/2018-03-sprite.jpg" width="200">
+
+<a href=""><img src="https://github.com/j168/j688/blob/master/img/2018-03-Photo.jpg" width="200">
+
+
+
+
+<p>
 	
