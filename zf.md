@@ -64,7 +64,7 @@
 </br>
 <tr>
 <td colspan=1>
-<div align=center><img src="https://github.com/j168/j688/blob/master/img/2018-03-19_ma.jpg" width="680"></div></td></tr>
+<div align=center><a href="https://github.com/j168/j688/blob/master/zfmp4/zaizang.mp4?raw=true"><img src="https://github.com/j168/j688/blob/master/img/2018-03-19_ma.jpg" width="680"></div></td></tr>
 <p>
 
 值得注意的是，在重物从刘春玲头上弹出时，不是顺着灭火器的气流走，而是逆着强大的灭火器气流飞向半空，可见黑手的用力之大。此时将慢镜头截止，一穿军大衣的男子正好站在镜头前，且仍呈前一秒的用力姿势。
