@@ -41,5 +41,4 @@
  <table>
 <tr>
 	<td colspan=1>
-<div align="center">
-  <img src="https://github.com/j168/j688/blob/master/img/2018-03-19_lo.jpg" width="680"></div></td></tr></table>
+<div align=center><img src="https://github.com/j168/j688/blob/master/img/2018-03-19_lo.jpg" width="680"></div></td></tr></table>
