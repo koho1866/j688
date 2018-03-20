@@ -107,8 +107,7 @@
 
 <a href="https://github.com/j168/j688/blob/master/zfmp4/Photographer.mp4?raw=true"><img src="https://github.com/j168/j688/blob/master/img/2018-03-Photo.jpg" width="200">
 
+***********************
 
-
-
-<p>
+●了解法轮功（法轮大法）真相，闻道、得法、修炼，万古机缘一瞬间。
 	
