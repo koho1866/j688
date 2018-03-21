@@ -49,3 +49,9 @@
 
 
 推荐【视频】共产主义不是出路而是绝路 
+
+
+
+
+
+ <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20180321sw.jpg" width="480" ></div>
