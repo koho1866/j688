@@ -109,7 +109,7 @@
 
 ***********************
 
-●了解法轮功（法轮大法）真相，闻道、得法、修炼，万古机缘一瞬间。
+<a href="https://github.com/j168/j688/blob/master/zfmp4/Photographer.mp4?raw=true">●了解法轮功（法轮大法）真相，闻道、得法、修炼，万古机缘一瞬间。</a>
 	
 -------------------------------------------------------
-<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2018-0321j.jpg" width="480" ></div>
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2018-0327.jpg" width="480" ></div>
