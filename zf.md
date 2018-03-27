@@ -109,7 +109,7 @@
 
 ***********************
 
-<a href="http://qq.leucas.men/9/">●了解法轮功（法轮大法）真相，闻道、得法、修炼，万古机缘一瞬间。</a>
+<a href="http://qq.leucas.men/posts/0e/sJPBxc/EBag-9KxexZ/iRo0MmcZXC-/omkyoCeq/L1L8ODKD-/S.htm">●了解法轮功（法轮大法）真相，闻道、得法、修炼，万古机缘一瞬间。</a>
 	
 -------------------------------------------------------
 
