@@ -5,8 +5,10 @@
 <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2018-0404t.jpg" width="680" ></div>
   <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/0404sy.jpg" width="680" ></div>
 
+<br/>
 
 
+******
 <img src="https://github.com/j168/j688/blob/master/img/cmGoal123.jpg" width="875">
 		
 ### 在《九评共产党》发表13周年之际，《九评》编辑部发表新书《共产主义的终极目的》。
