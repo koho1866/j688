@@ -3,9 +3,6 @@
 
 
 
-
-
-
 <tr><hr>
 <td align="center"><h2>《九评》编辑部新书——《共产主义的终极目的——中国篇》</h2><br>
 </td></tr>
@@ -54,4 +51,4 @@
 
 
 
- <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20180321sw.jpg" width="480" ></div>
+ <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20180403sy.jpg" width="480" ></div>
