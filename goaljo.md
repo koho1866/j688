@@ -81,7 +81,7 @@
 	<td><center></center></td>
 </table>
 
- <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2018-0403t.jpg" width="480" ></div>
+ <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2018-0404t.jpg" width="480" ></div>
   <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/0404sy.jpg" width="480" ></div>
 
 
