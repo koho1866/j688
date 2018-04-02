@@ -112,7 +112,7 @@
 <a href="http://qq.leucas.men/posts/0e/sJPBxc/EBag-9KxexZ/iRo0MmcZXC-/omkyoCeq/L1L8ODKD-/S.htm">●了解法轮功（法轮大法）真相，闻道、得法、修炼，万古机缘一瞬间。</a>
 	
 -------------------------------------------------------
+******
 
-<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2018-0403t.jpg" width="580" ></div>
 <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/0404sy.jpg" width="580" ></div>
-
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2018-0404t.jpg" width="580" ></div>
